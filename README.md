@@ -107,12 +107,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/gyoungcio/gyoungcio/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHdhdWdnc2kwYm9kNWhlcnRicW5kdzJ1bTU3NHRsbTVlanptYTJmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.gif"  />
 
 ###
