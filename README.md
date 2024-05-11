@@ -1,11 +1,6 @@
-<h2 align="left">Hello there 👋! My name is Greg and I'm a CIO/Technologist, from Chicago 🌃</h2>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gyoungcio&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=gyoungcio&locale=en&mode=weekly&theme=midnight-purple&hide_border=false&border_radius=5&date_format=n/j%5B/Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gyoungcio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -112,32 +107,20 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHdhdWdnc2kwYm9kNWhlcnRicW5kdzJ1bTU3NHRsbTVlanptYTJmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/gyoungcio/gyoungcio/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="right">
-  <a href="https://open.spotify.com/user/31m5nfsygqdvumohyhh7sgy64s2y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31m5nfsygqdvumohyhh7sgy64s2y&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHdhdWdnc2kwYm9kNWhlcnRicW5kdzJ1bTU3NHRsbTVlanptYTJmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.gif"  />
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/gyoungcio/count.svg?"  />
+<div align="left">
+  <a href="https://open.spotify.com/user/31m5nfsygqdvumohyhh7sgy64s2y">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31m5nfsygqdvumohyhh7sgy64s2y&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
